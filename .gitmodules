@@ -1,0 +1,4 @@
+[submodule "coolidfrezblog/hugotest.github.io"]
+	path = coolidfrezblog/hugotest.github.io
+	url = https://github.com/coolidfrez/hugotest.github.io
+	branch = main

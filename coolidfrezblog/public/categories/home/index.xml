@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Home on Coolidfrez Blog</title>
+    <link>https://hugotest.github.io/categories/home/</link>
+    <description>Recent content in Home on Coolidfrez Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Mon, 17 Apr 2023 06:52:57 +0000</lastBuildDate><atom:link href="https://hugotest.github.io/categories/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>accueil</title>
+      <link>https://hugotest.github.io/accueil/</link>
+      <pubDate>Mon, 17 Apr 2023 06:52:57 +0000</pubDate>
+      
+      <guid>https://hugotest.github.io/accueil/</guid>
+      <description>Test site with Hugo, don&amp;#39;t index this page please.</description>
+    </item>
+    
+  </channel>
+</rss>
